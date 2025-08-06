@@ -1,4 +1,4 @@
-# 🛡️ ESP32 Marauder with SD Card Support
+# 🛡️ ESP32 Marauder
 
 A **complete and simple guide** to wire, flash, and use the ESP32 Marauder with SD card capability.
 ## 🙏 Credits
@@ -34,7 +34,7 @@ All credit goes to their outstanding contribution in developing the ESP32 Maraud
 
 ## ⚡ Flashing Instructions
 
-### Web Updater Method
+### Web Updater Method (for without screen)
 
 1. Visit [FZee Serial Terminal](https://fzeeflasher.github.io/serial_terminal.html)
 2. Connect your ESP32 board
