@@ -36,26 +36,14 @@ All credit goes to their outstanding contribution in developing the ESP32 Maraud
 
 ### Web Updater Method
 
-1. Visit [Spacehuhn Web Updater](https://esptool.spacehuhn.com/)
+1. Visit [FZee Serial Terminal](https://fzeeflasher.github.io/serial_terminal.html)
 2. Connect your ESP32 board
-3. Upload these files:
-
-   * `marauder.bin`
-   * `partitions.bin`
-   * `bootloader.bin`
-4. Click **Program**
-5. When prompted, reset the ESP32.
-
+3. First Erase
+4. Before clicking **Program**, hold the BOOT button in the ESP32 for a few seconds then click.
+5. When prompted, disconnect the ESP32.
+6. Go to SERIAL TERMINAL
+7. enter help for a list of commands
 ---
-
-## 🖥️ Serial Terminal Setup
-
-* Tool: [FZee Serial Terminal](https://fzeeflasher.github.io/serial_terminal.html)
-* Baud rate: `115200`
-* Data bits: 8
-* Stop bits: 1
-* Parity: None
-
 ---
 
 ## ⚙️ Commands Overview
