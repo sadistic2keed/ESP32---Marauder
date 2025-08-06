@@ -1,6 +1,10 @@
 # 🛡️ ESP32 Marauder with SD Card Support
 
 A **complete and simple guide** to wire, flash, and use the ESP32 Marauder with SD card capability.
+## 🙏 Credits
+
+This project is based on the original work by [justcallmekoko](https://github.com/justcallmekoko/ESP32Marauder).  
+All credit goes to their outstanding contribution in developing the ESP32 Marauder firmware.
 
 ---
 
@@ -149,6 +153,7 @@ A **complete and simple guide** to wire, flash, and use the ESP32 Marauder with 
   * `select -a 1,3,5`
   * `select -f "contains GUEST"`
 
----
+
+
 
 > ⚠️ **Use this only on networks you own or have explicit permission to test. Unauthorized use is illegal.**
