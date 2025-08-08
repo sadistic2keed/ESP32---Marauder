@@ -144,4 +144,4 @@ All credit goes to their outstanding contribution in developing the ESP32 Maraud
 
 
 
-> ⚠️ **Use this only on networks you own or have explicit permission to test. Unauthorized use is illegal.**
+> ⚠️ **Unauthorized use is illegal.**
